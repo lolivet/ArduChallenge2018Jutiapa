@@ -1,6 +1,6 @@
 # Ch'a'oj ri kuxpun (Pelea De Globos)
 
-![Portada Seguidor de Linea_Facebook](https://github.com/arduinoguate/ArduChallenge/blob/master/Publicidad/Arduchallenge18/Portada%20Chaoj%20Ri%20Kuxpun.png)
+![Portada Seguidor de Linea_Facebook](https://github.com/lolivet/ArduChallenge2018Jutiapa/blob/master/WhatsApp%20Image%202018-10-16%20at%207.56.32%20AM.jpeg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arduino Guatemala](https://img.shields.io/badge/Arduino-Guatemala-blue.svg)](https://www.facebook.com/ArduinoGuatemala)
