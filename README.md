@@ -7,7 +7,7 @@
 
 ## Descripción
 
-Ch'a'oj ri kuxpun es un concurso en el cual los participantes con sus respectivos robots formaran grupos entre 3 y 5 integrantes
+ARDUCHALLENGE BATALLA DE GLOBOS es un concurso en el cual los participantes con sus respectivos robots formaran grupos entre 3 y 5 integrantes
 con la finalidad de reventar, pinchar o eliminar la mayor cantidad de globos del equipo contrario. 
 El equipo ganador será el que reviente, explote o pinche mas globos al finalizar el tiempo establecido.
 
