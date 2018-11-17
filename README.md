@@ -1,4 +1,4 @@
-# Ch'a'oj ri kuxpun (Pelea De Globos)
+# BATALLA DE GLOBOS ARDUCHALLENGE 2018 JUTIAPA
 
 ![Portada Seguidor de Linea_Facebook](https://github.com/lolivet/ArduChallenge2018Jutiapa/blob/master/WhatsApp%20Image%202018-10-16%20at%207.56.32%20AM.jpeg)
 
